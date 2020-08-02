@@ -1,0 +1,16 @@
+Home page -> Detail page transition shows a full screen image for a second
+Detail page: Fix appearnce of dropdown menu
+Login page: Forgot password
+Register page: Register with email and email confirmation
+Fix routing access 
+
+Completed:
+Add register date when signing up
+Detail page: Reload same component with new data with a transition
+Profile page: Fix header
+Detail page: Show standard header if no header is found
+Medialist: Show standard poster if no image is found
+Detail page: Show standard poster if no image is found
+Detail page: Remove blur and expand on image when no image is found
+All: Reload page when signing out/in with correct data
+Profile page: Sort list on load
